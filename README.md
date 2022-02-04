@@ -1,5 +1,5 @@
 ### Hi there! My name is
-## Benjamin Smith 
+## __**Benjamin Smith**__ 
 
 Welcome to my Github profile!
 
