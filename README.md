@@ -1,7 +1,8 @@
 ### 👋 Hi there! My name is
 # __**Benjamin Smith**__ 
 
-![Github](https://img.shields.io/github/followers/benyamindsmith?style=social)
+![Github](https://img.shields.io/github/followers/benyamindsmith?style=social) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=benyamindsmith.benyamindsmith)
+
 
 Welcome to my Github profile!
 
