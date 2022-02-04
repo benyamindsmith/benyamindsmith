@@ -2,5 +2,3 @@
 ## __**Benjamin Smith**__ 
 
 Welcome to my Github profile!
-
-### About me
