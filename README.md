@@ -1,7 +1,8 @@
 ### 👋 Hi there! My name is
 # __**Benjamin Smith**__ 
 
-![Github](https://img.shields.io/github/followers/benyamindsmith?style=social)![visitors](https://visitor-badge.laobi.icu/badge?page_id=benyamindsmith.benyamindsmith)[![dev.to badge](https://img.shields.io/badge/-benyamindsmith-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/benjamin-smith-8116a215b/)
+![Github](https://img.shields.io/github/followers/benyamindsmith?style=social) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=benyamindsmith.benyamindsmith) [![dev.to badge](https://img.shields.io/badge/-benyamindsmith-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/benjamin-smith-8116a215b/) [![dev.to badge](https://img.shields.io/badge/-benyamindsmith-%230177B5?style=flat&logo=wordpress)](https://bensstats.wordpress.com)
+
 
 
 Welcome to my Github profile!
