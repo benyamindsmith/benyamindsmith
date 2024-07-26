@@ -18,7 +18,7 @@ I specialize in all things related to data engineering and data science, but I a
                 alt='profile stats'>
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benyamindsmith&amp;layout=compact&amp;bg_color=0d1117&amp;text_color=f8e3a1&amp;title_color=f9826c&amp;icon_color=6e40c9&amp;langs_count=10&hide_border=true&hide=html"
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benyamindsmith&amp;layout=compact&amp;bg_color=0d1117&amp;text_color=f8e3a1&amp;title_color=f9826c&amp;icon_color=6e40c9&amp;langs_count=10&hide_border=true&hide=html,jupyter%20notebook&exclude_repo=dap"
                 alt='languages stats'>
         </td>
     </tr>
