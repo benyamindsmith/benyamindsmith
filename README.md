@@ -42,7 +42,6 @@ I have authored several R packages. Here is a brief list of the packages that I 
   <a href="https://github.com/benyamindsmith/RKaggle" title="RKaggle">
     <img src="https://raw.githubusercontent.com/benyamindsmith/RKaggle/refs/heads/main/utils/png/hex_sticker.png" width="130">
   </a>
-
   <a href="https://github.com/benyamindsmith/mapBliss" title="mapBliss">
     <img src="https://raw.githubusercontent.com/benyamindsmith/mapBliss/refs/heads/main/mapBliss.png" width="140">
   </a>
