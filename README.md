@@ -27,35 +27,34 @@ I specialize in all things related to data engineering and data science, but I a
 ### R Packages
 
 I have authored several R packages. Here is a brief list of the packages that I have built/shelved/continued developing: 
-
 <div align="center">
+
   <a href="https://github.com/benyamindsmith/ig.degree.betweenness" title="ig.degree.betweenness">
-    <img src="https://raw.githubusercontent.com/benyamindsmith/ig.degree.betweenness/refs/heads/main/utils/png/hex_sticker.png" width="140">
+    <img src="https://raw.githubusercontent.com/benyamindsmith/ig.degree.betweenness/refs/heads/main/utils/png/hex_sticker.png" width="140" height="140">
   </a>
-    <a href="https://github.com/benyamindsmith/randngen" title="randngen">
-    <img src="https://raw.githubusercontent.com/benyamindsmith/randngen/refs/heads/main/logo.png" width="130">
-  </a>
-  
-</div>
 
-<div align="center">
+  <a href="https://github.com/benyamindsmith/randngen" title="randngen">
+    <img src="https://raw.githubusercontent.com/benyamindsmith/randngen/refs/heads/main/logo.png" width="140" height="140">
+  </a>
+
   <a href="https://github.com/benyamindsmith/RKaggle" title="RKaggle">
-    <img src="https://raw.githubusercontent.com/benyamindsmith/RKaggle/refs/heads/main/utils/png/hex_sticker.png" width="130">
+    <img src="https://raw.githubusercontent.com/benyamindsmith/RKaggle/refs/heads/main/utils/png/hex_sticker.png" width="140" height="140">
   </a>
-  <a href="https://github.com/benyamindsmith/mapBliss" title="mapBliss">
-    <img src="https://raw.githubusercontent.com/benyamindsmith/mapBliss/refs/heads/main/mapBliss.png" width="140">
-  </a>
-  <a href="https://github.com/benyamindsmith/starBliss" title="starBliss">
-    <img src="https://raw.githubusercontent.com/benyamindsmith/starBliss/refs/heads/main/starBliss.png" width="140">
-  </a>
-  
-</div>
 
-<div align="center">
+  <a href="https://github.com/benyamindsmith/mapBliss" title="mapBliss">
+    <img src="https://raw.githubusercontent.com/benyamindsmith/mapBliss/refs/heads/main/mapBliss.png" width="140" height="140">
+  </a>
+
+  <a href="https://github.com/benyamindsmith/starBliss" title="starBliss">
+    <img src="https://raw.githubusercontent.com/benyamindsmith/starBliss/refs/heads/main/starBliss.png" width="140" height="140">
+  </a>
+
   <a href="https://github.com/benyamindsmith/RChessMaster" title="RChessMaster">
-    <img src="https://github.com/user-attachments/assets/56ffa648-725d-45c5-9672-b0031cb23551" width="160">
+    <img src="https://github.com/user-attachments/assets/56ffa648-725d-45c5-9672-b0031cb23551" width="140" height="140">
   </a>
- <a href="https://github.com/benyamindsmith/gemmatria" title="gemmatria">
-    <img src="https://raw.githubusercontent.com/benyamindsmith/gemmatria/refs/heads/master/gemmatria_package.png" width="150">
+
+  <a href="https://github.com/benyamindsmith/gemmatria" title="gemmatria">
+    <img src="https://raw.githubusercontent.com/benyamindsmith/gemmatria/refs/heads/master/gemmatria_package.png" width="140" height="140">
   </a>
+
 </div>
