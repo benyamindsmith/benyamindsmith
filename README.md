@@ -1,7 +1,7 @@
 ### 👋 Hi there! My name is
 # __**Benjamin Smith**__ 
 
-![Github](https://img.shields.io/github/followers/benyamindsmith?style=social) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=benyamindsmith.benyamindsmith) [![dev.to badge](https://img.shields.io/badge/-Website-%230177B5?style=flat&logo=wordpress)](https://bensstats.wordpress.com) [![JOSS Reviews](https://joss.theoj.org/badges/reviewed_by/@benyamindsmith)](https://joss.theoj.org/papers/reviewed_by/@benyamindsmith)
+![Github](https://img.shields.io/github/followers/benyamindsmith?style=social) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=benyamindsmith.benyamindsmith)  [![JOSS Reviews](https://joss.theoj.org/badges/reviewed_by/@benyamindsmith)](https://joss.theoj.org/papers/reviewed_by/@benyamindsmith) [![dev.to badge](https://img.shields.io/badge/-Website-%230177B5?style=flat&logo=wordpress)](https://bensstats.wordpress.com)
 
 
 
