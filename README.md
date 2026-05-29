@@ -35,6 +35,8 @@ I have authored several R packages. Here is a brief list of the packages that I 
   &nbsp;
   <a href="https://github.com/benyamindsmith/RKaggle"><img src="https://raw.githubusercontent.com/benyamindsmith/RKaggle/refs/heads/main/utils/png/hex_sticker.png" width="140" alt="RKaggle" /></a>
   &nbsp;
+  <a href="https://github.com/benyamindsmith/fightr"><img src="https://github.com/user-attachments/assets/6762a070-a4fa-426c-9f6e-05ca5613bb8b" width="140" alt="fightr" /></a>
+  &nbsp;
   <a href="https://github.com/benyamindsmith/randngen"><img src="https://raw.githubusercontent.com/benyamindsmith/randngen/refs/heads/main/logo.png" width="140" alt="randngen" /></a>
   &nbsp;
   <a href="https://github.com/benyamindsmith/mapBliss"><img src="https://raw.githubusercontent.com/benyamindsmith/mapBliss/refs/heads/main/mapBliss.png" width="140" alt="mapBliss" /></a>
