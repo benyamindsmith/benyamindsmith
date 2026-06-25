@@ -39,6 +39,8 @@ I have authored several R packages. Here is a brief list of the packages that I 
   &nbsp;
   <a href="https://github.com/benyamindsmith/randngen"><img src="https://raw.githubusercontent.com/benyamindsmith/randngen/refs/heads/main/logo.png" width="140" alt="randngen" /></a>
   &nbsp;
+  <a href='https://github.com/benyamindsmith/knit2docs'><img src='https://github.com/benyamindsmith/knit2docs/assets/46410142/6b472fe6-2aa5-4c59-9765-3645b839cf93' align="right" width="140" alt="knit2docs" /></a>
+  &nbsp;
   <a href="https://github.com/benyamindsmith/mapBliss"><img src="https://raw.githubusercontent.com/benyamindsmith/mapBliss/refs/heads/main/mapBliss.png" width="140" alt="mapBliss" /></a>
   &nbsp;
   <a href="https://github.com/benyamindsmith/starBliss"><img src="https://raw.githubusercontent.com/benyamindsmith/starBliss/refs/heads/main/starBliss.png" width="140" alt="starBliss" /></a>
