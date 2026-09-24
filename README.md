@@ -26,7 +26,7 @@ I specialize in all things related to data engineering and data science, but I a
 
 ### R Packages
 
-I have authored several R packages. Here is a brief list of the packages that I have published, built,shelved or am continuing to develop: 
+I have authored several R packages. Here is a brief list of the packages that I have published, built, shelved or am currently developing/maintaining: 
 
 <p align="center">
   <a href="https://github.com/benyamindsmith/ig.degree.betweenness"><img src="https://raw.githubusercontent.com/benyamindsmith/ig.degree.betweenness/refs/heads/main/utils/png/hex_sticker.png" width="140" alt="ig.degree.betweenness" /></a>
